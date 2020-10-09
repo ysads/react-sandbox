@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  margin: 100px;
+  margin-top: 30px
+}
+
+.App table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 30px;
+}
+
+.App table tr {
+  border-bottom: 1px solid rgba(69, 66, 66, 0.29);
+}
+
+.App table thead {
+  font-weight: bold;
+}
+
+.App button {
+  margin-top: 30px;
+  min-width: 100px;
+}
+
+.App label {
+  margin-right: 15px;
+}
